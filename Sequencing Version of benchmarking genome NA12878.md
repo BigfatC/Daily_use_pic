@@ -7,6 +7,7 @@ SNP and small indel variant caller with deep neural
 networks“ From **Nature**
 
 这个文章是Google团队利用CNN训练的模型，用于call snp，在文章中为了与GATK做对比，使用NA12878做benchmarking。
+
 ####平台：
 >2x101 Illumina HiSeq data from the
 Platinum Genomes project
