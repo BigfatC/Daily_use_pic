@@ -43,3 +43,8 @@ sequencing depth of 30x per sample.
 
 ## 结论
 这些数据全部都是进行了一定程度的downsampling。。。并没有公开的原始测序就是30X的这样子的数据。但是像deepvarints这样子的项目所使用的数据，我认为还是比较可信的，即使他们已经downsampling过了。但是数据是值得信赖的，毕竟是做新的call snp软件也是使用这样子的数据集。
+
+## 操作方法
+因为我们要测试的是BWA+GATK，所以必须使用30X的fastq数据，那么怎么办？可以从bam文件转回fastq文件。
+[转换方法](http://www.metagenomics.wiki/tools/samtools/converting-bam-to-fastq)
+还有就是继续寻找一开始就是30X的这些数据。。。。
