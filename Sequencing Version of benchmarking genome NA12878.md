@@ -23,6 +23,8 @@ sequencing depth of 30x per sample.
 
 ![shuju](https://raw.githubusercontent.com/BigfatC/Daily_use_pic/master/Screen%20Shot%202019-06-11%20at%209.45.33%20AM.png)
 
+#### [参考基因组](https://github.com/google/deepvariant/blob/r0.8/docs/deepvariant-details-training-data.md#myfootnote1)
+
 #### [Giab](ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x)
 
 这个数据集的话是300X，然后downsampling到30X。如果上面的数据不可用，就使用下面这个。
