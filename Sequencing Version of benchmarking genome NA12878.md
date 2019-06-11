@@ -85,3 +85,5 @@ SRX181481/		4/3/13, 8:00:00 AM
 -rw-r--r--  1 caiyiran  staff   205M Aug 30  2012 SRR548272.sra
 -rw-r--r--  1 caiyiran  staff   196M Aug 24  2012 SRR546694.sra
 ```
+
+现在来估计一下这个是不是原本就是30X的数据，还是被downsampling后的。
