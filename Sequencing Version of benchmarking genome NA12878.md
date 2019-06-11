@@ -72,4 +72,16 @@ SRX181480/		4/3/13, 8:00:00 AM
 SRX181481/		4/3/13, 8:00:00 AM
 ```
 
-目前进展：下载中。。。速度非常的慢。。。
+使用ascp+prefetch已经全部下载完毕~
+
+```
+-rw-r--r--  1 caiyiran  staff   3.5G Aug 30  2012 SRR548274.sra
+-rw-r--r--  1 caiyiran  staff   1.0G Aug 30  2012 SRR548275.sra
+-rw-r--r--  1 caiyiran  staff   1.0G Aug 30  2012 SRR548268.sra
+-rw-r--r--  1 caiyiran  staff   1.0G Aug 30  2012 SRR548269.sra
+-rw-r--r--  1 caiyiran  staff   807M Aug 30  2012 SRR548271.sra
+-rw-r--r--  1 caiyiran  staff   441M Aug 30  2012 SRR548270.sra
+-rw-r--r--  1 caiyiran  staff   347M Aug 30  2012 SRR548273.sra
+-rw-r--r--  1 caiyiran  staff   205M Aug 30  2012 SRR548272.sra
+-rw-r--r--  1 caiyiran  staff   196M Aug 24  2012 SRR546694.sra
+```
