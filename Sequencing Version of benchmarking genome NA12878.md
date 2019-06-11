@@ -27,6 +27,18 @@ sequencing depth of 30x per sample.
 
 #### [参考基因组](https://console.cloud.google.com/storage/browser/genomics-public-data/references/GRCh38_Verily)
 
+#### [第一个原始数据fastq来源](https://precision.fda.gov/challenges/truth)
+
+>但是仅供有government-authorization使用，个人无法获取fastq数据。FDA challenge的fastq显示是50X，PCR-free。也就是说上文使用的数据集还是downsampling得到的30X而不是原始测序30X。
+
+#### [第二个原始数据DNAnexus](https://dnanexus-rnd.s3.amazonaws.com/NA12878-xten.html )
+
+>所有的数据都在这里，但是通过fastqc计算，是41X，不是30X，也就是说还是进行了一定程度的downsampling。
+
 #### [Giab](ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x)
 
-这个数据集的话是300X，然后downsampling到30X。如果上面的数据不可用，就使用下面这个。
+>这个数据集的话是300X，然后downsampling到30X。如果上面的数据不可用，就使用下面这个。
+
+
+## 结论
+这些数据全部都是进行了一定程度的downsampling。。。并没有公开的原始测序就是30X的这样子的数据。但是像deepvarints这样子的项目所使用的数据，我认为还是比较可信的，即使他们已经downsampling过了。但是数据是值得信赖的，毕竟是做新的call snp软件也是使用这样子的数据集。
