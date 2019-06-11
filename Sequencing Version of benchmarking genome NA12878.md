@@ -36,7 +36,9 @@ sequencing depth of 30x per sample.
 >所有的数据都在这里，但是通过fastqc计算，是41X，不是30X，也就是说还是进行了一定程度的downsampling。
 
 
-#### [Giab](ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x)
+#### [Giab](https://jimb.stanford.edu/giab-resources)
+
+[下载地址](ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x)
 
 >这个数据集的话是300X，然后downsampling到30X。如果上面的数据不可用，就使用下面这个。
 
