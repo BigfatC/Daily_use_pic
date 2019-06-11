@@ -38,7 +38,8 @@ sequencing depth of 30x per sample.
 
 #### [Giab](https://jimb.stanford.edu/giab-resources)
 
-[下载地址](ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x)
+[下载地址]
+(ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x)
 
 >这个数据集的话是300X，然后downsampling到30X。如果上面的数据不可用，就使用下面这个。
 
@@ -55,7 +56,9 @@ sequencing depth of 30x per sample.
 
 同样是对BWA+GATK做加速这样子的工作，找到了[Edico Genome](http://www.edicogenome.com/wp-content/uploads/2015/02/Genome-Pipeline-Brief.pdf)和格列生物做的工作。都使用的是30X的SRA056922的数据。
 
-SRA056922的数据在DDBJ上面有[存储路径](ftp://ftp.ddbj.nig.ac.jp/ddbj_database/dra/fastq/SRA056/SRA056922/)
+SRA056922的数据在DDBJ上面有 
+[存储路径]
+(ftp://ftp.ddbj.nig.ac.jp/ddbj_database/dra/fastq/SRA056/SRA056922/)
 
 ```
 
