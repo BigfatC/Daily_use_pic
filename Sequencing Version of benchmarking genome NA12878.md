@@ -1,5 +1,7 @@
-## Sequencing Version of benchmarking genome NA12878
+# Sequencing Version of benchmarking genome NA12878
 
+
+## 1.来自其他Call SNP软件的数据
 #### [DeepVariants](https://console.cloud.google.com/storage/browser/deepvariant/public-training-data?pli=1)
 
 >"Creating a universal
@@ -27,6 +29,7 @@ sequencing depth of 30x per sample.
 
 #### [参考基因组](https://console.cloud.google.com/storage/browser/genomics-public-data/references/GRCh38_Verily)
 
+### 原始Fastq乘数探究（到底是不是downsampling得到的？）
 #### [第一个原始数据fastq来源](https://precision.fda.gov/challenges/truth)
 
 >但是仅供有government-authorization使用，个人无法获取fastq数据。FDA challenge的fastq显示是50X，PCR-free。也就是说上文使用的数据集还是downsampling得到的30X而不是原始测序30X。
@@ -44,15 +47,15 @@ sequencing depth of 30x per sample.
 >这个数据集的话是300X，然后downsampling到30X。如果上面的数据不可用，就使用下面这个。
 
 
-## 结论
+### 小结
 这些数据全部都是进行了一定程度的downsampling。。。并没有公开的原始测序就是30X的这样子的数据。但是像deepvarints这样子的项目所使用的数据，我认为还是比较可信的，即使他们已经downsampling过了。但是数据是值得信赖的，毕竟是做新的call snp软件也是使用这样子的数据集。
 
-## 操作方法
+### 操作方法
 因为我们要测试的是BWA+GATK，所以必须使用30X的fastq数据，那么怎么办？可以从bam文件转回fastq文件。
 [转换方法](http://www.metagenomics.wiki/tools/samtools/converting-bam-to-fastq)
 
 
-## 其他同质产品的数据
+## 2.其他同质产品的数据
 
 同样是对BWA+GATK做加速这样子的工作，找到了[Edico Genome](http://www.edicogenome.com/wp-content/uploads/2015/02/Genome-Pipeline-Brief.pdf)和格列生物做的工作。都使用的是30X的SRA056922的数据。
 
@@ -87,3 +90,22 @@ SRX181481/		4/3/13, 8:00:00 AM
 ```
 
 现在来估计一下这个是不是原本就是30X的数据，还是被downsampling后的。
+
+|文件名称|reads长度|reads数目|reads总数|
+|:-----:|:------:|:------:|:-------:|
+|SRR546694_1.fastq & 2.fastq|25bp|	5,348,963|267,448,150|
+|SRR548268_1.fastq & 2.fastq|101bp|8,601,499|1,737,502,798|
+|SRR548269_1.fastq & 2.fastq|101bp|8,574,009|1,731,949,818|
+|SRR548270_1.fastq & 2.fastq|101bp|4,144,375|837,163,750|
+|SRR548271_1.fastq & 2.fastq|76bp|8,717,653|1,325,083,256|
+|SRR548272_1.fastq & 2.fastq|101bp|2,090,626|422,306,452|
+|SRR548273_1.fastq & 2.fastq|101bp|3,411,835|689,190,670|
+|SRR548274_1.fastq & 2.fastq|25bp|99,802,040|4,990,102,000|
+|SRR548275_1.fastq & 2.fastq|101bp|8,296,870|1,675,967,740|
+|总数|13,676,714,634|人类基因组长度|300，000，000|
+|||覆盖乘数|45X|
+### 小结
+无论是Edico Genome还是格列生物都宣称使用的是30X的SRA056922的数据，但是实际上全部下载下来进行统计，是45X的数量，也就是说他们都预先Downsampling过了
+## 3.结论
+
+目前没有找到原始测的30X的数据，基本都是降采样到30X。可以对标其他的产品，使用SRA056922的数据进行降采样，也可以使用已经降采样过的bam文件转回原始的fastq。
