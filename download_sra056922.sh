@@ -1,512 +1,512 @@
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531844/SRR531844_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531844/SRR531844_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531846/SRR531846_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531846/SRR531846_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531847/SRR531847_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531847/SRR531847_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531848/SRR531848_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531848/SRR531848_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531849/SRR531849_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531849/SRR531849_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531850/SRR531850_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531850/SRR531850_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531851/SRR531851_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531851/SRR531851_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531852/SRR531852_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531852/SRR531852_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533277/SRR533277_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533277/SRR533277_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533278/SRR533278_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533278/SRR533278_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533280/SRR533280_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533280/SRR533280_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533281/SRR533281_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533281/SRR533281_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533282/SRR533282_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533282/SRR533282_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533962/SRR533962_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533962/SRR533962_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533963/SRR533963_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533963/SRR533963_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533965/SRR533965_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533965/SRR533965_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533966/SRR533966_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533966/SRR533966_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533967/SRR533967_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533967/SRR533967_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533968/SRR533968_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533968/SRR533968_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534030/SRR534030_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534030/SRR534030_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534031/SRR534031_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534031/SRR534031_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534032/SRR534032_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534032/SRR534032_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534033/SRR534033_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534033/SRR534033_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534035/SRR534035_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534035/SRR534035_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534036/SRR534036_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534036/SRR534036_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534038/SRR534038_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534038/SRR534038_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534039/SRR534039_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534039/SRR534039_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534040/SRR534040_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534040/SRR534040_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534041/SRR534041_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534041/SRR534041_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534043/SRR534043_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534043/SRR534043_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534044/SRR534044_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534044/SRR534044_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534047/SRR534047_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534047/SRR534047_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534048/SRR534048_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534048/SRR534048_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534049/SRR534049_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534049/SRR534049_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534051/SRR534051_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534051/SRR534051_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534052/SRR534052_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534052/SRR534052_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534053/SRR534053_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534053/SRR534053_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534054/SRR534054_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534054/SRR534054_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534056/SRR534056_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534056/SRR534056_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534057/SRR534057_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534057/SRR534057_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534058/SRR534058_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534058/SRR534058_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536250/SRR536250_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536250/SRR536250_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536251/SRR536251_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536251/SRR536251_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536252/SRR536252_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536252/SRR536252_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536254/SRR536254_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536254/SRR536254_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536255/SRR536255_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536255/SRR536255_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536256/SRR536256_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536256/SRR536256_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536257/SRR536257_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536257/SRR536257_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536258/SRR536258_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536258/SRR536258_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536259/SRR536259_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536259/SRR536259_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536261/SRR536261_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536261/SRR536261_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536262/SRR536262_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536262/SRR536262_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536263/SRR536263_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536263/SRR536263_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536264/SRR536264_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536264/SRR536264_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536265/SRR536265_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536265/SRR536265_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536266/SRR536266_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536266/SRR536266_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536268/SRR536268_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536268/SRR536268_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536270/SRR536270_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536270/SRR536270_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536271/SRR536271_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536271/SRR536271_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536272/SRR536272_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536272/SRR536272_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536273/SRR536273_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536273/SRR536273_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536274/SRR536274_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536274/SRR536274_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536275/SRR536275_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536275/SRR536275_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536277/SRR536277_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536277/SRR536277_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536278/SRR536278_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536278/SRR536278_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536279/SRR536279_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536279/SRR536279_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536281/SRR536281_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536281/SRR536281_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536282/SRR536282_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536282/SRR536282_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536284/SRR536284_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536284/SRR536284_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536285/SRR536285_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536285/SRR536285_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536287/SRR536287_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536287/SRR536287_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536288/SRR536288_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536288/SRR536288_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536290/SRR536290_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536290/SRR536290_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536291/SRR536291_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536291/SRR536291_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536292/SRR536292_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536292/SRR536292_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536293/SRR536293_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536293/SRR536293_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536294/SRR536294_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536294/SRR536294_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536295/SRR536295_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536295/SRR536295_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536296/SRR536296_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536296/SRR536296_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536297/SRR536297_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536297/SRR536297_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536298/SRR536298_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536298/SRR536298_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536299/SRR536299_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536299/SRR536299_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536301/SRR536301_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536301/SRR536301_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536302/SRR536302_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536302/SRR536302_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536303/SRR536303_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536303/SRR536303_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536305/SRR536305_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536305/SRR536305_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536306/SRR536306_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536306/SRR536306_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536308/SRR536308_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536308/SRR536308_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536309/SRR536309_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536309/SRR536309_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536311/SRR536311_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536311/SRR536311_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536312/SRR536312_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536312/SRR536312_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536313/SRR536313_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536313/SRR536313_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536314/SRR536314_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536314/SRR536314_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536315/SRR536315_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536315/SRR536315_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536317/SRR536317_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536317/SRR536317_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536318/SRR536318_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536318/SRR536318_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536319/SRR536319_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536319/SRR536319_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536320/SRR536320_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536320/SRR536320_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536321/SRR536321_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536321/SRR536321_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536322/SRR536322_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536322/SRR536322_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536326/SRR536326_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536326/SRR536326_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536327/SRR536327_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536327/SRR536327_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536329/SRR536329_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536329/SRR536329_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536331/SRR536331_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536331/SRR536331_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536332/SRR536332_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536332/SRR536332_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536333/SRR536333_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536333/SRR536333_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536334/SRR536334_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536334/SRR536334_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536335/SRR536335_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536335/SRR536335_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536336/SRR536336_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536336/SRR536336_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536338/SRR536338_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536338/SRR536338_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536339/SRR536339_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536339/SRR536339_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536340/SRR536340_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536340/SRR536340_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536847/SRR536847_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536847/SRR536847_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536849/SRR536849_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536849/SRR536849_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536850/SRR536850_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536850/SRR536850_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536852/SRR536852_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536852/SRR536852_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536853/SRR536853_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536853/SRR536853_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536855/SRR536855_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536855/SRR536855_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536856/SRR536856_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536856/SRR536856_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536857/SRR536857_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536857/SRR536857_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539343/SRR539343_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539343/SRR539343_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539344/SRR539344_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539344/SRR539344_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539345/SRR539345_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539345/SRR539345_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539347/SRR539347_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539347/SRR539347_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539348/SRR539348_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539348/SRR539348_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539349/SRR539349_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539349/SRR539349_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539350/SRR539350_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539350/SRR539350_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539352/SRR539352_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539352/SRR539352_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539354/SRR539354_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539354/SRR539354_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539357/SRR539357_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539357/SRR539357_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539359/SRR539359_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539359/SRR539359_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539362/SRR539362_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539362/SRR539362_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539363/SRR539363_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539363/SRR539363_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539364/SRR539364_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539364/SRR539364_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539365/SRR539365_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539365/SRR539365_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539366/SRR539366_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539366/SRR539366_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539367/SRR539367_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539367/SRR539367_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539369/SRR539369_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539369/SRR539369_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539370/SRR539370_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539370/SRR539370_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539371/SRR539371_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539371/SRR539371_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539372/SRR539372_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539372/SRR539372_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539373/SRR539373_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539373/SRR539373_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539374/SRR539374_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539374/SRR539374_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539375/SRR539375_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539375/SRR539375_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539377/SRR539377_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539377/SRR539377_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539378/SRR539378_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539378/SRR539378_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539379/SRR539379_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539379/SRR539379_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539381/SRR539381_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539381/SRR539381_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539382/SRR539382_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539382/SRR539382_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539383/SRR539383_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539383/SRR539383_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539384/SRR539384_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539384/SRR539384_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539385/SRR539385_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539385/SRR539385_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539386/SRR539386_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539386/SRR539386_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539388/SRR539388_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539388/SRR539388_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539389/SRR539389_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539389/SRR539389_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539390/SRR539390_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539390/SRR539390_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539391/SRR539391_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539391/SRR539391_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539393/SRR539393_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539393/SRR539393_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539394/SRR539394_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539394/SRR539394_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539395/SRR539395_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539395/SRR539395_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539396/SRR539396_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539396/SRR539396_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539397/SRR539397_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539397/SRR539397_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539398/SRR539398_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539398/SRR539398_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539399/SRR539399_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539399/SRR539399_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539401/SRR539401_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539401/SRR539401_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539402/SRR539402_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539402/SRR539402_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539403/SRR539403_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539403/SRR539403_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539404/SRR539404_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539404/SRR539404_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539405/SRR539405_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539405/SRR539405_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539406/SRR539406_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539406/SRR539406_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539407/SRR539407_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539407/SRR539407_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539408/SRR539408_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539408/SRR539408_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539409/SRR539409_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539409/SRR539409_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539410/SRR539410_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539410/SRR539410_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539411/SRR539411_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539411/SRR539411_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539412/SRR539412_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539412/SRR539412_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539413/SRR539413_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539413/SRR539413_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539414/SRR539414_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539414/SRR539414_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539415/SRR539415_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539415/SRR539415_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539416/SRR539416_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539416/SRR539416_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539946/SRR539946_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539946/SRR539946_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539947/SRR539947_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539947/SRR539947_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539949/SRR539949_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539949/SRR539949_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539950/SRR539950_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539950/SRR539950_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539951/SRR539951_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539951/SRR539951_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539952/SRR539952_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539952/SRR539952_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539953/SRR539953_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539953/SRR539953_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539954/SRR539954_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539954/SRR539954_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539955/SRR539955_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539955/SRR539955_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539956/SRR539956_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539956/SRR539956_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539957/SRR539957_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539957/SRR539957_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539958/SRR539958_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539958/SRR539958_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539959/SRR539959_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539959/SRR539959_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539960/SRR539960_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539960/SRR539960_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539961/SRR539961_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539961/SRR539961_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539962/SRR539962_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539962/SRR539962_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539963/SRR539963_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539963/SRR539963_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539964/SRR539964_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539964/SRR539964_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539965/SRR539965_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539965/SRR539965_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539966/SRR539966_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539966/SRR539966_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539967/SRR539967_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539967/SRR539967_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539970/SRR539970_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539970/SRR539970_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539971/SRR539971_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539971/SRR539971_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539972/SRR539972_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539972/SRR539972_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539973/SRR539973_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539973/SRR539973_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539974/SRR539974_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539974/SRR539974_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539975/SRR539975_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539975/SRR539975_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541406/SRR541406_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541406/SRR541406_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541407/SRR541407_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541407/SRR541407_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541408/SRR541408_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541408/SRR541408_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541409/SRR541409_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541409/SRR541409_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541411/SRR541411_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541411/SRR541411_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541412/SRR541412_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541412/SRR541412_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546375/SRR546375_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546375/SRR546375_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546376/SRR546376_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546376/SRR546376_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546377/SRR546377_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546377/SRR546377_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546694/SRR546694_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546694/SRR546694_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548268/SRR548268_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548268/SRR548268_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548269/SRR548269_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548269/SRR548269_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548270/SRR548270_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548270/SRR548270_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548272/SRR548272_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548272/SRR548272_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548273/SRR548273_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548273/SRR548273_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548274/SRR548274_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548274/SRR548274_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548275/SRR548275_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548275/SRR548275_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555263/SRR555263_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555263/SRR555263_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555264/SRR555264_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555264/SRR555264_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555265/SRR555265_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555265/SRR555265_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555266/SRR555266_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555266/SRR555266_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555267/SRR555267_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555267/SRR555267_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555268/SRR555268_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555268/SRR555268_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555270/SRR555270_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555270/SRR555270_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555271/SRR555271_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555271/SRR555271_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555272/SRR555272_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555272/SRR555272_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555273/SRR555273_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555273/SRR555273_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555274/SRR555274_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555274/SRR555274_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555275/SRR555275_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555275/SRR555275_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555324/SRR555324_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555324/SRR555324_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555325/SRR555325_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555325/SRR555325_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555327/SRR555327_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555327/SRR555327_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555328/SRR555328_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555328/SRR555328_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555329/SRR555329_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555329/SRR555329_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555330/SRR555330_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555330/SRR555330_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555331/SRR555331_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555331/SRR555331_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555332/SRR555332_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555332/SRR555332_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555334/SRR555334_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555334/SRR555334_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555336/SRR555336_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555336/SRR555336_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555337/SRR555337_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555337/SRR555337_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555339/SRR555339_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555339/SRR555339_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555342/SRR555342_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555342/SRR555342_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555345/SRR555345_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555345/SRR555345_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555346/SRR555346_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555346/SRR555346_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569336/SRR569336_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569336/SRR569336_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569337/SRR569337_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569337/SRR569337_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569338/SRR569338_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569338/SRR569338_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569339/SRR569339_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569339/SRR569339_2.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569340/SRR569340_1.fastq.gz
-ascp -i /home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.putty fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569340/SRR569340_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531844/SRR531844_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531844/SRR531844_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531846/SRR531846_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531846/SRR531846_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531847/SRR531847_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531847/SRR531847_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531848/SRR531848_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531848/SRR531848_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531849/SRR531849_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531849/SRR531849_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531850/SRR531850_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531850/SRR531850_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531851/SRR531851_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531851/SRR531851_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531852/SRR531852_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR531/SRR531852/SRR531852_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533277/SRR533277_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533277/SRR533277_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533278/SRR533278_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533278/SRR533278_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533280/SRR533280_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533280/SRR533280_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533281/SRR533281_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533281/SRR533281_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533282/SRR533282_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533282/SRR533282_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533962/SRR533962_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533962/SRR533962_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533963/SRR533963_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533963/SRR533963_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533965/SRR533965_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533965/SRR533965_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533966/SRR533966_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533966/SRR533966_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533967/SRR533967_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533967/SRR533967_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533968/SRR533968_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR533/SRR533968/SRR533968_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534030/SRR534030_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534030/SRR534030_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534031/SRR534031_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534031/SRR534031_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534032/SRR534032_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534032/SRR534032_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534033/SRR534033_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534033/SRR534033_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534035/SRR534035_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534035/SRR534035_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534036/SRR534036_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534036/SRR534036_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534038/SRR534038_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534038/SRR534038_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534039/SRR534039_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534039/SRR534039_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534040/SRR534040_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534040/SRR534040_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534041/SRR534041_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534041/SRR534041_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534043/SRR534043_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534043/SRR534043_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534044/SRR534044_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534044/SRR534044_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534047/SRR534047_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534047/SRR534047_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534048/SRR534048_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534048/SRR534048_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534049/SRR534049_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534049/SRR534049_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534051/SRR534051_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534051/SRR534051_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534052/SRR534052_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534052/SRR534052_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534053/SRR534053_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534053/SRR534053_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534054/SRR534054_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534054/SRR534054_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534056/SRR534056_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534056/SRR534056_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534057/SRR534057_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534057/SRR534057_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534058/SRR534058_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR534/SRR534058/SRR534058_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536250/SRR536250_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536250/SRR536250_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536251/SRR536251_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536251/SRR536251_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536252/SRR536252_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536252/SRR536252_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536254/SRR536254_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536254/SRR536254_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536255/SRR536255_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536255/SRR536255_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536256/SRR536256_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536256/SRR536256_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536257/SRR536257_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536257/SRR536257_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536258/SRR536258_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536258/SRR536258_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536259/SRR536259_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536259/SRR536259_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536261/SRR536261_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536261/SRR536261_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536262/SRR536262_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536262/SRR536262_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536263/SRR536263_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536263/SRR536263_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536264/SRR536264_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536264/SRR536264_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536265/SRR536265_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536265/SRR536265_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536266/SRR536266_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536266/SRR536266_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536268/SRR536268_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536268/SRR536268_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536270/SRR536270_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536270/SRR536270_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536271/SRR536271_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536271/SRR536271_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536272/SRR536272_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536272/SRR536272_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536273/SRR536273_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536273/SRR536273_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536274/SRR536274_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536274/SRR536274_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536275/SRR536275_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536275/SRR536275_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536277/SRR536277_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536277/SRR536277_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536278/SRR536278_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536278/SRR536278_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536279/SRR536279_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536279/SRR536279_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536281/SRR536281_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536281/SRR536281_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536282/SRR536282_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536282/SRR536282_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536284/SRR536284_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536284/SRR536284_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536285/SRR536285_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536285/SRR536285_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536287/SRR536287_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536287/SRR536287_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536288/SRR536288_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536288/SRR536288_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536290/SRR536290_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536290/SRR536290_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536291/SRR536291_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536291/SRR536291_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536292/SRR536292_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536292/SRR536292_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536293/SRR536293_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536293/SRR536293_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536294/SRR536294_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536294/SRR536294_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536295/SRR536295_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536295/SRR536295_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536296/SRR536296_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536296/SRR536296_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536297/SRR536297_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536297/SRR536297_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536298/SRR536298_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536298/SRR536298_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536299/SRR536299_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536299/SRR536299_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536301/SRR536301_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536301/SRR536301_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536302/SRR536302_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536302/SRR536302_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536303/SRR536303_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536303/SRR536303_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536305/SRR536305_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536305/SRR536305_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536306/SRR536306_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536306/SRR536306_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536308/SRR536308_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536308/SRR536308_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536309/SRR536309_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536309/SRR536309_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536311/SRR536311_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536311/SRR536311_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536312/SRR536312_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536312/SRR536312_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536313/SRR536313_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536313/SRR536313_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536314/SRR536314_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536314/SRR536314_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536315/SRR536315_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536315/SRR536315_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536317/SRR536317_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536317/SRR536317_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536318/SRR536318_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536318/SRR536318_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536319/SRR536319_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536319/SRR536319_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536320/SRR536320_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536320/SRR536320_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536321/SRR536321_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536321/SRR536321_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536322/SRR536322_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536322/SRR536322_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536326/SRR536326_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536326/SRR536326_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536327/SRR536327_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536327/SRR536327_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536329/SRR536329_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536329/SRR536329_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536331/SRR536331_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536331/SRR536331_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536332/SRR536332_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536332/SRR536332_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536333/SRR536333_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536333/SRR536333_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536334/SRR536334_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536334/SRR536334_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536335/SRR536335_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536335/SRR536335_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536336/SRR536336_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536336/SRR536336_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536338/SRR536338_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536338/SRR536338_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536339/SRR536339_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536339/SRR536339_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536340/SRR536340_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536340/SRR536340_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536847/SRR536847_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536847/SRR536847_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536849/SRR536849_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536849/SRR536849_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536850/SRR536850_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536850/SRR536850_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536852/SRR536852_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536852/SRR536852_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536853/SRR536853_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536853/SRR536853_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536855/SRR536855_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536855/SRR536855_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536856/SRR536856_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536856/SRR536856_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536857/SRR536857_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR536/SRR536857/SRR536857_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539343/SRR539343_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539343/SRR539343_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539344/SRR539344_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539344/SRR539344_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539345/SRR539345_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539345/SRR539345_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539347/SRR539347_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539347/SRR539347_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539348/SRR539348_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539348/SRR539348_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539349/SRR539349_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539349/SRR539349_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539350/SRR539350_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539350/SRR539350_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539352/SRR539352_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539352/SRR539352_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539354/SRR539354_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539354/SRR539354_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539357/SRR539357_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539357/SRR539357_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539359/SRR539359_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539359/SRR539359_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539362/SRR539362_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539362/SRR539362_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539363/SRR539363_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539363/SRR539363_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539364/SRR539364_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539364/SRR539364_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539365/SRR539365_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539365/SRR539365_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539366/SRR539366_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539366/SRR539366_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539367/SRR539367_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539367/SRR539367_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539369/SRR539369_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539369/SRR539369_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539370/SRR539370_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539370/SRR539370_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539371/SRR539371_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539371/SRR539371_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539372/SRR539372_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539372/SRR539372_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539373/SRR539373_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539373/SRR539373_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539374/SRR539374_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539374/SRR539374_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539375/SRR539375_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539375/SRR539375_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539377/SRR539377_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539377/SRR539377_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539378/SRR539378_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539378/SRR539378_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539379/SRR539379_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539379/SRR539379_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539381/SRR539381_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539381/SRR539381_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539382/SRR539382_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539382/SRR539382_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539383/SRR539383_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539383/SRR539383_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539384/SRR539384_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539384/SRR539384_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539385/SRR539385_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539385/SRR539385_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539386/SRR539386_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539386/SRR539386_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539388/SRR539388_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539388/SRR539388_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539389/SRR539389_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539389/SRR539389_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539390/SRR539390_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539390/SRR539390_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539391/SRR539391_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539391/SRR539391_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539393/SRR539393_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539393/SRR539393_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539394/SRR539394_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539394/SRR539394_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539395/SRR539395_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539395/SRR539395_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539396/SRR539396_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539396/SRR539396_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539397/SRR539397_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539397/SRR539397_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539398/SRR539398_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539398/SRR539398_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539399/SRR539399_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539399/SRR539399_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539401/SRR539401_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539401/SRR539401_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539402/SRR539402_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539402/SRR539402_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539403/SRR539403_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539403/SRR539403_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539404/SRR539404_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539404/SRR539404_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539405/SRR539405_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539405/SRR539405_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539406/SRR539406_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539406/SRR539406_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539407/SRR539407_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539407/SRR539407_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539408/SRR539408_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539408/SRR539408_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539409/SRR539409_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539409/SRR539409_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539410/SRR539410_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539410/SRR539410_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539411/SRR539411_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539411/SRR539411_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539412/SRR539412_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539412/SRR539412_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539413/SRR539413_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539413/SRR539413_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539414/SRR539414_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539414/SRR539414_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539415/SRR539415_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539415/SRR539415_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539416/SRR539416_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539416/SRR539416_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539946/SRR539946_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539946/SRR539946_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539947/SRR539947_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539947/SRR539947_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539949/SRR539949_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539949/SRR539949_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539950/SRR539950_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539950/SRR539950_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539951/SRR539951_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539951/SRR539951_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539952/SRR539952_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539952/SRR539952_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539953/SRR539953_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539953/SRR539953_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539954/SRR539954_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539954/SRR539954_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539955/SRR539955_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539955/SRR539955_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539956/SRR539956_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539956/SRR539956_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539957/SRR539957_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539957/SRR539957_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539958/SRR539958_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539958/SRR539958_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539959/SRR539959_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539959/SRR539959_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539960/SRR539960_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539960/SRR539960_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539961/SRR539961_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539961/SRR539961_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539962/SRR539962_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539962/SRR539962_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539963/SRR539963_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539963/SRR539963_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539964/SRR539964_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539964/SRR539964_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539965/SRR539965_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539965/SRR539965_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539966/SRR539966_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539966/SRR539966_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539967/SRR539967_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539967/SRR539967_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539970/SRR539970_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539970/SRR539970_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539971/SRR539971_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539971/SRR539971_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539972/SRR539972_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539972/SRR539972_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539973/SRR539973_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539973/SRR539973_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539974/SRR539974_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539974/SRR539974_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539975/SRR539975_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR539/SRR539975/SRR539975_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541406/SRR541406_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541406/SRR541406_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541407/SRR541407_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541407/SRR541407_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541408/SRR541408_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541408/SRR541408_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541409/SRR541409_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541409/SRR541409_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541411/SRR541411_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541411/SRR541411_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541412/SRR541412_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR541/SRR541412/SRR541412_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546375/SRR546375_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546375/SRR546375_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546376/SRR546376_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546376/SRR546376_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546377/SRR546377_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546377/SRR546377_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546694/SRR546694_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR546/SRR546694/SRR546694_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548268/SRR548268_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548268/SRR548268_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548269/SRR548269_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548269/SRR548269_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548270/SRR548270_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548270/SRR548270_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548272/SRR548272_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548272/SRR548272_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548273/SRR548273_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548273/SRR548273_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548274/SRR548274_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548274/SRR548274_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548275/SRR548275_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR548/SRR548275/SRR548275_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555263/SRR555263_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555263/SRR555263_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555264/SRR555264_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555264/SRR555264_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555265/SRR555265_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555265/SRR555265_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555266/SRR555266_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555266/SRR555266_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555267/SRR555267_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555267/SRR555267_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555268/SRR555268_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555268/SRR555268_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555270/SRR555270_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555270/SRR555270_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555271/SRR555271_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555271/SRR555271_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555272/SRR555272_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555272/SRR555272_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555273/SRR555273_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555273/SRR555273_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555274/SRR555274_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555274/SRR555274_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555275/SRR555275_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555275/SRR555275_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555324/SRR555324_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555324/SRR555324_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555325/SRR555325_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555325/SRR555325_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555327/SRR555327_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555327/SRR555327_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555328/SRR555328_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555328/SRR555328_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555329/SRR555329_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555329/SRR555329_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555330/SRR555330_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555330/SRR555330_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555331/SRR555331_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555331/SRR555331_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555332/SRR555332_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555332/SRR555332_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555334/SRR555334_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555334/SRR555334_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555336/SRR555336_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555336/SRR555336_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555337/SRR555337_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555337/SRR555337_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555339/SRR555339_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555339/SRR555339_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555342/SRR555342_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555342/SRR555342_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555345/SRR555345_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555345/SRR555345_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555346/SRR555346_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR555/SRR555346/SRR555346_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569336/SRR569336_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569336/SRR569336_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569337/SRR569337_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569337/SRR569337_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569338/SRR569338_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569338/SRR569338_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569339/SRR569339_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569339/SRR569339_2.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569340/SRR569340_1.fastq.gz
+/home/yiran.cai/.aspera/connect/bin/ascp -i /home/yiran.cai/.aspera/connect/etc/asperaweb_id_dsa.openssh fasp.sra.ebi.ac.uk:/vol1/fastq/SRR569/SRR569340/SRR569340_2.fastq.gz
